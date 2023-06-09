@@ -5,4 +5,4 @@ Citations:
 
 Dataset only DOI
 
-Data descriptors (methods and data description) data in Brief Journal
+Data descriptors (methods and data description) Data in Brief Journal
