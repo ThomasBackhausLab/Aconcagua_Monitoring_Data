@@ -4,6 +4,6 @@ This repository contains chemical monitoring data obtained during a 2018 campaig
 
 Citations:
 
-Dataset only DOI
+Dataset only [![DOI](https://zenodo.org/badge/651531102.svg)](https://zenodo.org/badge/latestdoi/651531102)
 
 Data descriptors (methods and data description) Data in Brief Journal
